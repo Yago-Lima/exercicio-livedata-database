@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "nome": "Produto Genérico",
+  "preco": 100.00,
+  "categoria": "Geral",
+  "estoque": 50
+}
